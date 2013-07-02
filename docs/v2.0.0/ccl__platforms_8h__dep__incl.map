@@ -1,0 +1,26 @@
+<map id="cf4ocl2/ccl_platforms.h" name="cf4ocl2/ccl_platforms.h">
+<area shape="rect" id="node2" href="$ccl__device__selector_8h.html" title="Classes and functions for filtering and selecting OpenCL contexts and associated devices. " alt="" coords="1209,81,1339,122"/>
+<area shape="rect" id="node25" href="$ccl__platforms_8c.html" title="Implementation of a class which represents the list of OpenCL platforms available in the system and r..." alt="" coords="1364,88,1521,115"/>
+<area shape="rect" id="node3" href="$ccl__context__wrapper_8h.html" title="Definition of a wrapper class and its methods for OpenCL context objects. " alt="" coords="1129,171,1263,213"/>
+<area shape="rect" id="node24" href="$ccl__device__selector_8c.html" title="Classes and functions for filtering and selecting OpenCL contexts and associated devices. " alt="" coords="1288,171,1417,213"/>
+<area shape="rect" id="node4" href="$__ccl__memobj__wrapper_8h_source.html" title="cf4ocl2/_ccl_memobj\l_wrapper.h" alt="" coords="245,443,389,485"/>
+<area shape="rect" id="node8" href="$ccl__event__wrapper_8h.html" title="Definition of a wrapper class and its methods for OpenCL event objects. " alt="" coords="1011,269,1199,296"/>
+<area shape="rect" id="node14" href="$ccl__program__wrapper_8h.html" title="Definition of a wrapper class and its methods for OpenCL program objects. " alt="" coords="928,625,1067,666"/>
+<area shape="rect" id="node16" href="$ccl__queue__wrapper_8h.html" title="Definition of a wrapper class and its methods for OpenCL queue objects. " alt="" coords="802,360,992,387"/>
+<area shape="rect" id="node21" href="$ccl__context__wrapper_8c.html" title="Implementation of a wrapper class and its methods for OpenCL context objects. " alt="" coords="1314,262,1448,303"/>
+<area shape="rect" id="node22" href="$ccl__sampler__wrapper_8h.html" title="Definition of a wrapper class and its methods for OpenCL sampler objects. " alt="" coords="1473,262,1612,303"/>
+<area shape="rect" id="node5" href="$ccl__buffer__wrapper_8c.html" title="Implementation of a wrapper class and its methods for OpenCL buffer objects. " alt="" coords="377,625,503,666"/>
+<area shape="rect" id="node6" href="$ccl__image__wrapper_8c.html" title="Implementation of a wrapper class and its methods for OpenCL image objects. " alt="" coords="527,632,717,659"/>
+<area shape="rect" id="node7" href="$ccl__memobj__wrapper_8c.html" title="Implementation of a wrapper class and its methods for OpenCL memory objects. " alt="" coords="273,534,412,575"/>
+<area shape="rect" id="node9" href="$ccl__memobj__wrapper_8h.html" title="Definition of a wrapper class and its methods for OpenCL memory objects. " alt="" coords="468,443,607,485"/>
+<area shape="rect" id="node12" href="$ccl__kernel__wrapper_8h.html" title="Definition of a wrapper class and its methods for OpenCL kernel objects. " alt="" coords="802,534,928,575"/>
+<area shape="rect" id="node17" href="$ccl__event__wrapper_8c.html" title="Implementation of a wrapper class and its methods for OpenCL event objects. " alt="" coords="949,451,1136,477"/>
+<area shape="rect" id="node10" href="$ccl__buffer__wrapper_8h.html" title="Definition of a wrapper class and its methods for OpenCL buffer objects. " alt="" coords="652,534,777,575"/>
+<area shape="rect" id="node11" href="$ccl__image__wrapper_8h.html" title="Definition of a wrapper class and its methods for OpenCL image objects. " alt="" coords="437,541,627,568"/>
+<area shape="rect" id="node13" href="$ccl__kernel__wrapper_8c.html" title="Implementation of a wrapper class and its methods for OpenCL kernel objects. " alt="" coords="802,715,928,757"/>
+<area shape="rect" id="node15" href="$ccl__program__wrapper_8c.html" title="Implementation of a wrapper class and its methods for OpenCL program objects. " alt="" coords="953,715,1092,757"/>
+<area shape="rect" id="node18" href="$ccl__profiler_8h.html" title="Definition of classes and methods for profiling OpenCL events. " alt="" coords="29,451,171,477"/>
+<area shape="rect" id="node20" href="$ccl__queue__wrapper_8c.html" title="Implementation of a wrapper class and its methods for OpenCL queue objects. " alt="" coords="631,451,821,477"/>
+<area shape="rect" id="node19" href="$ccl__profiler_8c.html" title="Implementation of classes and methods for profiling OpenCL events. " alt="" coords="5,541,147,568"/>
+<area shape="rect" id="node23" href="$ccl__sampler__wrapper_8c.html" title="Implementation of a wrapper class and its methods for OpenCL sampler objects. " alt="" coords="1473,353,1612,394"/>
+</map>

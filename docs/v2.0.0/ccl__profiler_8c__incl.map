@@ -1,0 +1,14 @@
+<map id="cf4ocl2/ccl_profiler.c" name="cf4ocl2/ccl_profiler.c">
+<area shape="rect" id="node2" href="$ccl__profiler_8h.html" title="Definition of classes and methods for profiling OpenCL events. " alt="" coords="119,80,215,107"/>
+<area shape="rect" id="node4" href="$ccl__errors_8h.html" title="Convert OpenCL error codes to readable strings (function header). " alt="" coords="507,752,597,779"/>
+<area shape="rect" id="node5" href="$ccl__common_8h.html" title="Common cf4ocl definitions. " alt="" coords="397,827,504,853"/>
+<area shape="rect" id="node14" href="$ccl__queue__wrapper_8h.html" title="Definition of a wrapper class and its methods for OpenCL queue objects. " alt="" coords="783,155,928,181"/>
+<area shape="rect" id="node10" href="$ccl__oclversions_8h.html" title="Header for normalizing OpenCL versions within cf4ocl. " alt="" coords="925,901,1048,928"/>
+<area shape="rect" id="node15" href="$ccl__abstract__wrapper_8h.html" title="Definition of an abstract wrapper class and its methods for OpenCL objects. " alt="" coords="792,677,949,704"/>
+<area shape="rect" id="node16" href="$ccl__device__wrapper_8h.html" title="Definition of a wrapper class and its methods for OpenCL device objects. " alt="" coords="641,603,788,629"/>
+<area shape="rect" id="node17" href="$ccl__context__wrapper_8h.html" title="Definition of a wrapper class and its methods for OpenCL context objects. " alt="" coords="666,304,819,331"/>
+<area shape="rect" id="node21" href="$ccl__event__wrapper_8h.html" title="Definition of a wrapper class and its methods for OpenCL event objects. " alt="" coords="785,229,927,256"/>
+<area shape="rect" id="node18" href="$ccl__device__selector_8h.html" title="Classes and functions for filtering and selecting OpenCL contexts and associated devices. " alt="" coords="543,379,691,405"/>
+<area shape="rect" id="node20" href="$ccl__platform__wrapper_8h.html" title="Definition of a wrapper class and its methods for OpenCL platform objects. " alt="" coords="449,528,607,555"/>
+<area shape="rect" id="node19" href="$ccl__platforms_8h.html" title="Definition of a class which represents the list of OpenCL platforms available in the system and respe..." alt="" coords="357,453,467,480"/>
+</map>

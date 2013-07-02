@@ -1,0 +1,13 @@
+<map id="cf4ocl2/ccl_sampler_wrapper.c" name="cf4ocl2/ccl_sampler_wrapper.c">
+<area shape="rect" id="node2" href="$ccl__sampler__wrapper_8h.html" title="Definition of a wrapper class and its methods for OpenCL sampler objects. " alt="" coords="689,96,844,123"/>
+<area shape="rect" id="node20" href="$__ccl__abstract__wrapper_8h_source.html" title="_ccl_abstract_wrapper.h" alt="" coords="771,544,935,571"/>
+<area shape="rect" id="node3" href="$ccl__abstract__wrapper_8h.html" title="Definition of an abstract wrapper class and its methods for OpenCL objects. " alt="" coords="589,544,747,571"/>
+<area shape="rect" id="node14" href="$ccl__context__wrapper_8h.html" title="Definition of a wrapper class and its methods for OpenCL context objects. " alt="" coords="363,171,516,197"/>
+<area shape="rect" id="node4" href="$ccl__oclversions_8h.html" title="Header for normalizing OpenCL versions within cf4ocl. " alt="" coords="700,768,823,795"/>
+<area shape="rect" id="node7" href="$ccl__common_8h.html" title="Common cf4ocl definitions. " alt="" coords="240,693,347,720"/>
+<area shape="rect" id="node13" href="$ccl__errors_8h.html" title="Convert OpenCL error codes to readable strings (function header). " alt="" coords="331,619,421,645"/>
+<area shape="rect" id="node15" href="$ccl__device__selector_8h.html" title="Classes and functions for filtering and selecting OpenCL contexts and associated devices. " alt="" coords="153,245,300,272"/>
+<area shape="rect" id="node16" href="$ccl__device__wrapper_8h.html" title="Definition of a wrapper class and its methods for OpenCL device objects. " alt="" coords="315,469,463,496"/>
+<area shape="rect" id="node19" href="$ccl__platform__wrapper_8h.html" title="Definition of a wrapper class and its methods for OpenCL platform objects. " alt="" coords="195,395,352,421"/>
+<area shape="rect" id="node18" href="$ccl__platforms_8h.html" title="Definition of a class which represents the list of OpenCL platforms available in the system and respe..." alt="" coords="137,320,247,347"/>
+</map>

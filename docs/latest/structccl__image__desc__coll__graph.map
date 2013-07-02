@@ -1,0 +1,4 @@
+<map id="ccl_image_desc" name="ccl_image_desc">
+<area shape="rect" id="node2" href="$structccl__memobj.html" title="Base class for memory object wrappers, i.e., CCLBuffer and CCLImage. " alt="" coords="5,238,200,418"/>
+<area shape="rect" id="node3" href="$structccl__wrapper.html" title="Base class for all OpenCL wrappers. " alt="" coords="5,6,200,186"/>
+</map>

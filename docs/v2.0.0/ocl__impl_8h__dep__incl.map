@@ -1,0 +1,19 @@
+<map id="tests/ocl_stub/ocl_impl.h" name="tests/ocl_stub/ocl_impl.h">
+<area shape="rect" id="node2" href="$ocl__env_8h.html" title="OpenCL fake environment. " alt="" coords="1080,97,1205,138"/>
+<area shape="rect" id="node16" href="$utils_8h.html" title="Utilities used by the OpenCL testing stub. " alt="" coords="913,104,1055,131"/>
+<area shape="rect" id="node18" href="$test__profiler__op_8c.html" title="Operation (timming and correctness) tests for the profiling module. " alt="" coords="1229,104,1383,131"/>
+<area shape="rect" id="node3" href="$ocl__buffer_8c.html" title="OpenCL buffer stub functions. " alt="" coords="172,187,297,229"/>
+<area shape="rect" id="node4" href="$ocl__commandqueue_8c.html" title="OpenCL command queue stub functions. " alt="" coords="322,187,453,229"/>
+<area shape="rect" id="node5" href="$ocl__context_8c.html" title="OpenCL context stub functions. " alt="" coords="479,187,604,229"/>
+<area shape="rect" id="node6" href="$ocl__device_8c.html" title="OpenCL device stub functions. " alt="" coords="628,187,753,229"/>
+<area shape="rect" id="node7" href="$ocl__enqueue_8c.html" title="OpenCL enqueue API. " alt="" coords="777,187,903,229"/>
+<area shape="rect" id="node8" href="$ocl__env_8c.html" title="OpenCL fake environment. " alt="" coords="1972,187,2097,229"/>
+<area shape="rect" id="node9" href="$ocl__event_8c.html" title="OpenCL event stub functions. " alt="" coords="927,187,1052,229"/>
+<area shape="rect" id="node10" href="$ocl__image_8c.html" title="OpenCL image stub functions. " alt="" coords="1076,187,1201,229"/>
+<area shape="rect" id="node11" href="$ocl__kernel_8c.html" title="OpenCL event stub functions. " alt="" coords="1225,187,1351,229"/>
+<area shape="rect" id="node12" href="$ocl__memobject_8c.html" title="OpenCL memory object stub functions. " alt="" coords="1375,187,1500,229"/>
+<area shape="rect" id="node13" href="$ocl__platform_8c.html" title="OpenCL platform stub functions. " alt="" coords="1524,187,1649,229"/>
+<area shape="rect" id="node14" href="$ocl__program_8c.html" title="OpenCL program stub functions. " alt="" coords="1673,187,1799,229"/>
+<area shape="rect" id="node15" href="$ocl__sampler_8c.html" title="OpenCL sampler stub functions. " alt="" coords="1823,187,1948,229"/>
+<area shape="rect" id="node17" href="$utils_8c.html" title="Utilities used by the OpenCL testing stub. " alt="" coords="5,195,147,221"/>
+</map>

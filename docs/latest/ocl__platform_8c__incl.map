@@ -1,0 +1,6 @@
+<map id="tests/ocl_stub/ocl_platform.c" name="tests/ocl_stub/ocl_platform.c">
+<area shape="rect" id="node2" href="$ocl__env_8h.html" title="OpenCL fake environment. " alt="" coords="169,96,247,123"/>
+<area shape="rect" id="node12" href="$utils_8h.html" title="Utilities used by the OpenCL testing stub. " alt="" coords="271,96,328,123"/>
+<area shape="rect" id="node3" href="$ocl__impl_8h.html" title="OpenCL stub object implementations. " alt="" coords="213,171,293,197"/>
+<area shape="rect" id="node9" href="$ccl__oclversions_8h.html" title="Header for normalizing OpenCL versions within cf4ocl. " alt="" coords="464,245,587,272"/>
+</map>

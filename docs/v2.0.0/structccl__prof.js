@@ -1,0 +1,27 @@
+var structccl__prof =
+[
+    [ "ccl_prof_add_queue", "group___c_c_l___p_r_o_f_i_l_e_r.html#ga3920fcbeab72384c0f029933af53f4c0", null ],
+    [ "ccl_prof_calc", "group___c_c_l___p_r_o_f_i_l_e_r.html#ga5e75d3f7775d4d0844b55c373fb1f93c", null ],
+    [ "ccl_prof_destroy", "group___c_c_l___p_r_o_f_i_l_e_r.html#ga9b0453462582d7335c3cf09f9c2eae46", null ],
+    [ "ccl_prof_export_info", "group___c_c_l___p_r_o_f_i_l_e_r.html#ga5442064c53f87a8d065542c03ed5dd6b", null ],
+    [ "ccl_prof_export_info_file", "group___c_c_l___p_r_o_f_i_l_e_r.html#gabd2a567a96fc1d02225e9af4239fadce", null ],
+    [ "ccl_prof_get_agg", "group___c_c_l___p_r_o_f_i_l_e_r.html#ga139db970b28fe31a959a853d8d926077", null ],
+    [ "ccl_prof_get_duration", "group___c_c_l___p_r_o_f_i_l_e_r.html#gad43a53ea90b6fd890d6a60c3f84f5280", null ],
+    [ "ccl_prof_get_eff_duration", "group___c_c_l___p_r_o_f_i_l_e_r.html#ga9cd3c0b1fd739bcea6017a0be357a28d", null ],
+    [ "ccl_prof_get_export_opts", "group___c_c_l___p_r_o_f_i_l_e_r.html#ga7532fa06d12639d4eb2fa86e704ebf64", null ],
+    [ "ccl_prof_get_summary", "group___c_c_l___p_r_o_f_i_l_e_r.html#gaa7d37d14d71f9371121e7c30cd2dc112", null ],
+    [ "ccl_prof_iter_agg_init", "group___c_c_l___p_r_o_f_i_l_e_r.html#ga3971a69cf6b31c4f6ab0aac5818d0770", null ],
+    [ "ccl_prof_iter_agg_next", "group___c_c_l___p_r_o_f_i_l_e_r.html#gaf7923ca0bfdc7da509789f60d5367002", null ],
+    [ "ccl_prof_iter_info_init", "group___c_c_l___p_r_o_f_i_l_e_r.html#ga7674f12f78276a6e4b08c47021d5e1e0", null ],
+    [ "ccl_prof_iter_info_next", "group___c_c_l___p_r_o_f_i_l_e_r.html#ga802dfcf4c88884ad52acf6c083b6e9c8", null ],
+    [ "ccl_prof_iter_inst_init", "group___c_c_l___p_r_o_f_i_l_e_r.html#gae844e8729f84b154e0e5ab4125ce90f7", null ],
+    [ "ccl_prof_iter_inst_next", "group___c_c_l___p_r_o_f_i_l_e_r.html#ga70117714b1bf88a2d1d78c534271c42a", null ],
+    [ "ccl_prof_iter_overlap_init", "group___c_c_l___p_r_o_f_i_l_e_r.html#ga7ad1db5efdf519937b2f774aade0b07b", null ],
+    [ "ccl_prof_iter_overlap_next", "group___c_c_l___p_r_o_f_i_l_e_r.html#gaac8cf44ca7df9db7ca22a77bf4b6e9e5", null ],
+    [ "ccl_prof_new", "group___c_c_l___p_r_o_f_i_l_e_r.html#ga6b5424a140676c5820dbd951c0fb282a", null ],
+    [ "ccl_prof_print_summary", "group___c_c_l___p_r_o_f_i_l_e_r.html#ga97f32fd83cad28fbc1d079a7d18e2066", null ],
+    [ "ccl_prof_set_export_opts", "group___c_c_l___p_r_o_f_i_l_e_r.html#ga0bc62a8ea7945a858693918cb3010eaa", null ],
+    [ "ccl_prof_start", "group___c_c_l___p_r_o_f_i_l_e_r.html#gab653c56fad16e7829ac0ecc36583d134", null ],
+    [ "ccl_prof_stop", "group___c_c_l___p_r_o_f_i_l_e_r.html#ga6ac004634555c60e527afe9f10696423", null ],
+    [ "ccl_prof_time_elapsed", "group___c_c_l___p_r_o_f_i_l_e_r.html#gaa0905019124bfc701d7b665c3ba63123", null ]
+];

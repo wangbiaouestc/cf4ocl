@@ -1,0 +1,11 @@
+<map id="cf4ocl2/ccl_memobj_wrapper.h" name="cf4ocl2/ccl_memobj_wrapper.h">
+<area shape="rect" id="node2" href="$ccl__buffer__wrapper_8h.html" title="Definition of a wrapper class and its methods for OpenCL buffer objects. " alt="" coords="5,97,131,138"/>
+<area shape="rect" id="node5" href="$ccl__image__wrapper_8h.html" title="Definition of a wrapper class and its methods for OpenCL image objects. " alt="" coords="155,104,345,131"/>
+<area shape="rect" id="node6" href="$ccl__kernel__wrapper_8h.html" title="Definition of a wrapper class and its methods for OpenCL kernel objects. " alt="" coords="370,97,496,138"/>
+<area shape="rect" id="node10" href="$ccl__memobj__wrapper_8c.html" title="Implementation of a wrapper class and its methods for OpenCL memory objects. " alt="" coords="521,97,660,138"/>
+<area shape="rect" id="node3" href="$ccl__buffer__wrapper_8c.html" title="Implementation of a wrapper class and its methods for OpenCL buffer objects. " alt="" coords="5,187,131,229"/>
+<area shape="rect" id="node4" href="$ccl__image__wrapper_8c.html" title="Implementation of a wrapper class and its methods for OpenCL image objects. " alt="" coords="155,195,345,221"/>
+<area shape="rect" id="node7" href="$ccl__kernel__wrapper_8c.html" title="Implementation of a wrapper class and its methods for OpenCL kernel objects. " alt="" coords="345,278,471,319"/>
+<area shape="rect" id="node8" href="$ccl__program__wrapper_8h.html" title="Definition of a wrapper class and its methods for OpenCL program objects. " alt="" coords="445,187,584,229"/>
+<area shape="rect" id="node9" href="$ccl__program__wrapper_8c.html" title="Implementation of a wrapper class and its methods for OpenCL program objects. " alt="" coords="496,278,635,319"/>
+</map>

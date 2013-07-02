@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['t_5fend',['t_end',['../group___c_c_l___p_r_o_f_i_l_e_r.html#aa425f3c07607957ade284872341593f7',1,'ccl_prof_info']]],
+  ['t_5fqueued',['t_queued',['../group___c_c_l___p_r_o_f_i_l_e_r.html#a7d2cd89edc404ee364d1a905bbcebc7a',1,'ccl_prof_info']]],
+  ['t_5fstart',['t_start',['../group___c_c_l___p_r_o_f_i_l_e_r.html#a4ae54c2049057cacf27cf6d9410aa909',1,'ccl_prof_info']]],
+  ['t_5fsubmit',['t_submit',['../group___c_c_l___p_r_o_f_i_l_e_r.html#a5c2b78dd155ad6c3592de72b9a55e5c1',1,'ccl_prof_info']]],
+  ['test_2ec',['test.c',['../test_8c.html',1,'']]],
+  ['test_2eh',['test.h',['../test_8h.html',1,'']]],
+  ['test_5fbuffer_2ec',['test_buffer.c',['../test__buffer_8c.html',1,'']]],
+  ['test_5fccl_5ferror',['TEST_CCL_ERROR',['../test__error__handling_8c.html#a8330c8024da6379c8c232c9f8d7c9adf',1,'test_error_handling.c']]],
+  ['test_5fcontext_2ec',['test_context.c',['../test__context_8c.html',1,'']]],
+  ['test_5fdevice_2ec',['test_device.c',['../test__device_8c.html',1,'']]],
+  ['test_5fdevquery_2ec',['test_devquery.c',['../test__devquery_8c.html',1,'']]],
+  ['test_5ferror_5fhandling_2ec',['test_error_handling.c',['../test__error__handling_8c.html',1,'']]],
+  ['test_5ferror_5fhandling_5ferror_5fcodes',['test_error_handling_error_codes',['../test__error__handling_8c.html#acfde2047f63ec83b2f6cbbe3d5002287',1,'test_error_handling.c']]],
+  ['test_5ferror_5fhandling_5ferror_5fquark',['test_error_handling_error_quark',['../test__error__handling_8c.html#a1601469c335c0ff1e8931f3fdc034c7f',1,'test_error_handling.c']]],
+  ['test_5fevent_2ec',['test_event.c',['../test__event_8c.html',1,'']]],
+  ['test_5fimage_2ec',['test_image.c',['../test__image_8c.html',1,'']]],
+  ['test_5fkernel_2ec',['test_kernel.c',['../test__kernel_8c.html',1,'']]],
+  ['test_5fplatforms_2ec',['test_platforms.c',['../test__platforms_8c.html',1,'']]],
+  ['test_5fprofiler_2ec',['test_profiler.c',['../test__profiler_8c.html',1,'']]],
+  ['test_5fprofiler_5fop_2ec',['test_profiler_op.c',['../test__profiler__op_8c.html',1,'']]],
+  ['test_5fprogram_2ec',['test_program.c',['../test__program_8c.html',1,'']]],
+  ['test_5fqueue_2ec',['test_queue.c',['../test__queue_8c.html',1,'']]],
+  ['test_5fsampler_2ec',['test_sampler.c',['../test__sampler_8c.html',1,'']]],
+  ['tutorial',['Tutorial',['../tut.html',1,'']]],
+  ['type',['type',['../group___c_c_l___p_r_o_f_i_l_e_r.html#a1bc5955f04fb5d1c71d403024fa8223f',1,'ccl_prof_inst']]]
+];

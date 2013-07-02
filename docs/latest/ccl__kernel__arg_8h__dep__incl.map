@@ -1,0 +1,7 @@
+<map id="cf4ocl2/ccl_kernel_arg.h" name="cf4ocl2/ccl_kernel_arg.h">
+<area shape="rect" id="node2" href="$ccl__kernel__arg_8c.html" title="Implementation of a wrapper type and related functions for a OpenCL kernel arguments. " alt="" coords="5,97,131,138"/>
+<area shape="rect" id="node3" href="$ccl__kernel__wrapper_8h.html" title="Definition of a wrapper class and its methods for OpenCL kernel objects. " alt="" coords="155,97,281,138"/>
+<area shape="rect" id="node4" href="$ccl__kernel__wrapper_8c.html" title="Implementation of a wrapper class and its methods for OpenCL kernel objects. " alt="" coords="102,278,228,319"/>
+<area shape="rect" id="node5" href="$ccl__program__wrapper_8h.html" title="Definition of a wrapper class and its methods for OpenCL program objects. " alt="" coords="203,187,341,229"/>
+<area shape="rect" id="node6" href="$ccl__program__wrapper_8c.html" title="Implementation of a wrapper class and its methods for OpenCL program objects. " alt="" coords="253,278,392,319"/>
+</map>

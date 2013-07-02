@@ -1,0 +1,37 @@
+var ccl__common_8h =
+[
+    [ "CCL_ERROR", "ccl__common_8h.html#a528bf687affd4a6f04b0a1b6f2acf96d", null ],
+    [ "ccl_if_err_create_goto", "ccl__common_8h.html#a1677324e509d157e2994a097aaded227", null ],
+    [ "ccl_if_err_goto", "ccl__common_8h.html#ab16e27799468bce1386259a62df514d3", null ],
+    [ "ccl_if_err_propagate_goto", "ccl__common_8h.html#aa4603b096affa163467465c89cf27265", null ],
+    [ "CCL_OCL_ERROR", "ccl__common_8h.html#ab6baf75b8ff2a93da86e10a150dc28ed", null ],
+    [ "CCLBuffer", "group___c_c_l___b_u_f_f_e_r___w_r_a_p_p_e_r.html#ga74a5e095bf96ac7f6ebb99bbb61a926f", null ],
+    [ "CCLContext", "group___c_c_l___c_o_n_t_e_x_t___w_r_a_p_p_e_r.html#ga8bf8e21eb589f02f25064e4869c8b8df", null ],
+    [ "CCLDevContainer", "ccl__common_8h.html#af08e755467d7fb60b52685e2c21752e0", null ],
+    [ "CCLDevice", "group___c_c_l___d_e_v_i_c_e___w_r_a_p_p_e_r.html#gaa18648559193d4a248b1b81e3fcc56f7", null ],
+    [ "CCLErrorCode", "ccl__common_8h.html#a841748d6f7045afb9e14d4e69b268985", null ],
+    [ "CCLEvent", "group___c_c_l___e_v_e_n_t___w_r_a_p_p_e_r.html#ga615bf932ba8b81cc25ce8fcbaf3006a1", null ],
+    [ "CCLImage", "group___c_c_l___i_m_a_g_e___w_r_a_p_p_e_r.html#ga0aac60cad56cb1a8cd89d138d8d5acd2", null ],
+    [ "CCLKernel", "group___c_c_l___k_e_r_n_e_l___w_r_a_p_p_e_r.html#ga55709ccabc636d6afabb41dd4d9ab277", null ],
+    [ "CCLMemObj", "group___c_c_l___m_e_m_o_b_j___w_r_a_p_p_e_r.html#gaaad489261449960e89631f7e1cb8706d", null ],
+    [ "CCLPlatform", "group___c_c_l___p_l_a_t_f_o_r_m___w_r_a_p_p_e_r.html#gad5b2427c1c3565977ebf05a9536d84b8", null ],
+    [ "CCLPlatforms", "group___c_c_l___p_l_a_t_f_o_r_m_s.html#ga6ca8d1882c5b73479018698ce535f2cc", null ],
+    [ "CCLProgram", "group___c_c_l___p_r_o_g_r_a_m___w_r_a_p_p_e_r.html#gad49948bcbb49fc6dbd83928775f8cb33", null ],
+    [ "CCLQueue", "group___c_c_l___q_u_e_u_e___w_r_a_p_p_e_r.html#ga961b7c1f3a0e7bb4fef88401b9f11714", null ],
+    [ "CCLSampler", "group___c_c_l___s_a_m_p_l_e_r___w_r_a_p_p_e_r.html#ga23ebcd4de2b4e4142cd62c337886c133", null ],
+    [ "CCLWrapper", "ccl__common_8h.html#adfe76120dcae2bab1547887f101051e7", null ],
+    [ "ccl_error_code", "ccl__common_8h.html#a16432a86b11701820bd8e4b5ea307b95", [
+      [ "CCL_SUCCESS", "ccl__common_8h.html#a16432a86b11701820bd8e4b5ea307b95a6f7bded2d52bf517d990b62a26af4b97", null ],
+      [ "CCL_ERROR_OPENFILE", "ccl__common_8h.html#a16432a86b11701820bd8e4b5ea307b95aa5b486fbda16b6a9d05ae527305196cf", null ],
+      [ "CCL_ERROR_ARGS", "ccl__common_8h.html#a16432a86b11701820bd8e4b5ea307b95a8245e23c09d9adb7a1ebb38c77baa79c", null ],
+      [ "CCL_ERROR_INVALID_DATA", "ccl__common_8h.html#a16432a86b11701820bd8e4b5ea307b95a15c0648b444ede6f9ed0a0219444ee61", null ],
+      [ "CCL_ERROR_STREAM_WRITE", "ccl__common_8h.html#a16432a86b11701820bd8e4b5ea307b95a56432efd11a6cef6f2c7197c1952f6c9", null ],
+      [ "CCL_ERROR_DEVICE_NOT_FOUND", "ccl__common_8h.html#a16432a86b11701820bd8e4b5ea307b95a33171267f0b7cdf4f776f7e4b523c4e5", null ],
+      [ "CCL_ERROR_UNSUPPORTED_OCL", "ccl__common_8h.html#a16432a86b11701820bd8e4b5ea307b95a0dacc52ab1e8f5a2a829313931a6fc00", null ],
+      [ "CCL_ERROR_INFO_UNAVAILABLE_OCL", "ccl__common_8h.html#a16432a86b11701820bd8e4b5ea307b95ac684967cdf1a94c145cabb38ca536b8a", null ],
+      [ "CCL_ERROR_OTHER", "ccl__common_8h.html#a16432a86b11701820bd8e4b5ea307b95ac4d89c94d38faa498eafe4158151aca7", null ]
+    ] ],
+    [ "ccl_common_version_print", "ccl__common_8h.html#ab170b78169a55193280ede7d885dd4ce", null ],
+    [ "ccl_error_quark", "ccl__common_8h.html#a13bace5aea30e6e27e2e7ce85459029a", null ],
+    [ "ccl_ocl_error_quark", "ccl__common_8h.html#a8da99afbde37f3d34d56d105dad2bc65", null ]
+];

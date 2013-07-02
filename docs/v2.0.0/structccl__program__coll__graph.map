@@ -1,0 +1,4 @@
+<map id="ccl_program" name="ccl_program">
+<area shape="rect" id="node2" href="$structccl__dev__container.html" title="Base class for wrappers which contain devices, i.e., CCLPlatform, CCLProgram and CCLContext. " alt="" coords="39,235,165,312"/>
+<area shape="rect" id="node3" href="$structccl__wrapper.html" title="Base class for all OpenCL wrappers. " alt="" coords="5,6,200,186"/>
+</map>

@@ -1,0 +1,168 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>cf4ocl by FakenMC</title>
+
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <script src="javascripts/scale.fix.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1>cf4ocl</h1>
+        <p>C Framework for OpenCL</p>
+        <p class="view"><a href="https://github.com/FakenMC/cf4ocl">View the Project on GitHub <small>FakenMC/cf4ocl</small></a></p>
+        <ul>
+          <li><a href="https://github.com/FakenMC/cf4ocl/zipball/master">Download <strong>ZIP File</strong></a></li>
+          <li><a href="https://github.com/FakenMC/cf4ocl/tarball/master">Download <strong>TAR Ball</strong></a></li>
+          <li><a href="https://github.com/FakenMC/cf4ocl">View On <strong>GitHub</strong></a></li>
+        </ul>
+      </header>
+      <section>
+        <h1>
+<a id="news" class="anchor" href="#news" aria-hidden="true"><span class="octicon octicon-link"></span></a>News</h1>
+
+<p>The 2.0.0 stable version is now <a href="https://github.com/FakenMC/cf4ocl/releases">available</a>.</p>
+
+<h1>
+<a id="summary" class="anchor" href="#summary" aria-hidden="true"><span class="octicon octicon-link"></span></a>Summary</h1>
+
+<p>The C Framework for OpenCL, <em>cf4ocl</em>, is a cross-platform pure C
+object-oriented framework for developing and benchmarking <a href="http://www.khronos.org/opencl/" title="OpenCL">OpenCL</a>
+projects in C. It aims to:</p>
+
+<ol>
+<li>Promote the rapid development of OpenCL host programs in C (with
+support for C++) and avoid the tedious and error-prone boilerplate code
+usually required.</li>
+<li>Assist in the benchmarking of OpenCL events, such as kernel execution
+and data transfers. Profiling comes for <strong>free</strong> with <em>cf4ocl</em>.</li>
+<li>Simplify the analysis of the OpenCL environment and of kernel
+requirements.</li>
+<li>Allow for all levels of integration with existing OpenCL code: use as
+much or as few of <em>cf4ocl</em> required for your project, with full access
+to the underlying OpenCL objects and functions at all times.</li>
+</ol>
+
+<h1>
+<a id="features" class="anchor" href="#features" aria-hidden="true"><span class="octicon octicon-link"></span></a>Features</h1>
+
+<ul>
+<li>Object-oriented interface to the OpenCL API
+
+<ul>
+<li>New/destroy functions, no direct memory alloc/free</li>
+<li>Easy (and extensible) device selection</li>
+<li>Simple event dependency mechanism</li>
+<li>User-friendly error management</li>
+</ul>
+</li>
+<li>OpenCL version independent</li>
+<li>Integrated profiling</li>
+<li>Tested on Linux, OSX and Windows</li>
+</ul>
+
+<h1>
+<a id="documentation" class="anchor" href="#documentation" aria-hidden="true"><span class="octicon octicon-link"></span></a>Documentation</h1>
+
+<ul>
+<li><a href="http://fakenmc.github.io/cf4ocl/docs/latest/">User guide and API</a></li>
+<li><a href="http://fakenmc.github.io/cf4ocl/docs/latest/tut.html">Tutorial</a></li>
+<li><a href="https://github.com/FakenMC/cf4ocl/wiki">Wiki</a></li>
+<li><a href="http://fakenmc.github.io/cf4ocl/docs/latest/examples.html">Examples</a></li>
+</ul>
+
+<h1>
+<a id="feedback-and-collaboration" class="anchor" href="#feedback-and-collaboration" aria-hidden="true"><span class="octicon octicon-link"></span></a>Feedback and collaboration</h1>
+
+<p>Download or clone <em>cf4ocl</em>, <a href="https://github.com/FakenMC/cf4ocl/wiki/Build%20and%20install%20from%20source">build and install it</a>,
+and <a href="https://github.com/FakenMC/cf4ocl/wiki/Using-cf4ocl-in-a-new-project">build</a>
+a small example, such as the one bellow, which shows a nice and fast way
+to get an OpenCL context with a user-selected device:</p>
+
+<div class="highlight highlight-c"><pre>#<span class="pl-k">include</span> <span class="pl-s1"><span class="pl-pds">&lt;</span>cf4ocl2.h<span class="pl-pds">&gt;</span></span>
+<span class="pl-st">int</span> <span class="pl-en">main</span>() {
+
+    <span class="pl-c">/* Variables. */</span>
+    CCLContext * ctx = <span class="pl-c1">NULL</span>;
+
+    <span class="pl-c">/* Code. */</span>
+    ctx = <span class="pl-s3">ccl_context_new_from_menu</span>(<span class="pl-c1">NULL</span>);
+    <span class="pl-k">if</span> (ctx == <span class="pl-c1">NULL</span>) <span class="pl-s3">exit</span>(-<span class="pl-c1">1</span>);
+
+    <span class="pl-c">/* Destroy context wrapper. */</span>
+    <span class="pl-s3">ccl_context_destroy</span>(ctx);
+
+    <span class="pl-k">return</span> <span class="pl-c1">0</span>;
+}</pre></div>
+
+<p>We appreciate any feedback. If you like this project and want to
+contribute, take a look at the existing <a href="https://github.com/FakenMC/cf4ocl/issues">issues</a>.
+We also need help with <a href="https://github.com/FakenMC/cf4ocl/wiki/Install-the-binaries">binary packaging</a>
+for different OSes. Other improvements or suggestions are of course,
+welcome.</p>
+
+<h1>
+<a id="not-yet-integrated" class="anchor" href="#not-yet-integrated" aria-hidden="true"><span class="octicon octicon-link"></span></a>Not yet integrated</h1>
+
+<p>The following aspects of OpenCL are not yet integrated with <em>cf4ocl</em>:</p>
+
+<ul>
+<li>
+<a href="https://github.com/FakenMC/cf4ocl/issues/3">OpenGL</a> and
+<a href="https://github.com/FakenMC/cf4ocl/issues/4">DirectX</a> interoperability</li>
+<li>
+<a href="https://github.com/FakenMC/cf4ocl/issues/8">Pipes</a> and
+<a href="https://github.com/FakenMC/cf4ocl/issues/7">SVM</a> (OpenCL 2.0 only)</li>
+</ul>
+
+<p>This functionality is still available to client code, because <em>cf4ocl</em>
+can be used simultaneously with raw OpenCL objects and functions.</p>
+
+<h1>
+<a id="license" class="anchor" href="#license" aria-hidden="true"><span class="octicon octicon-link"></span></a>License</h1>
+
+<p>Library code is licensed under <a href="http://www.gnu.org/licenses/lgpl.html)" title="LGPLv3">LGPLv3</a>, while the remaining code
+(utilities, examples and tests) is licensed under <a href="http://www.gnu.org/licenses/gpl.html" title="GPLv3">GPLv3</a>.</p>
+
+<h1>
+<a id="other-useful-c-frameworksutilities-for-opencl" class="anchor" href="#other-useful-c-frameworksutilities-for-opencl" aria-hidden="true"><span class="octicon octicon-link"></span></a>Other useful C frameworks/utilities for OpenCL</h1>
+
+<p>If <em>cf4ocl</em> does not meet your requirements, take a look at the following
+projects:</p>
+
+<ul>
+<li><a href="http://code.google.com/p/simple-opencl/" title="Simple OpenCL">Simple OpenCL</a></li>
+<li><a href="https://github.com/Oblomov/CLU" title="The OpenCL utility library">The OpenCL utility library</a></li>
+<li><a href="https://github.com/Computing-Language-Utility/CLU" title="Computing Language Utility">Computing Language Utility</a></li>
+<li><a href="http://tuxfan.github.io/ocl-mla/" title="OCL-MLA">OCL-MLA</a></li>
+<li><a href="https://github.com/matze/oclkit" title="oclkit">oclkit</a></li>
+</ul>
+      </section>
+    </div>
+    <footer>
+      <p>Project maintained by <a href="https://github.com/FakenMC">FakenMC</a></p>
+      <p>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></p>
+    </footer>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+              <script type="text/javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+          </script>
+          <script type="text/javascript">
+            try {
+              var pageTracker = _gat._getTracker("UA-42378595-1");
+            pageTracker._trackPageview();
+            } catch(err) {}
+          </script>
+
+  </body>
+</html>

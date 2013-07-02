@@ -1,0 +1,34 @@
+<map id="cf4ocl2/ccl_device_wrapper.h" name="cf4ocl2/ccl_device_wrapper.h">
+<area shape="rect" id="node2" href="$__ccl__abstract__dev__container__wrapper_8h_source.html" title="cf4ocl2/_ccl_abstract\l_dev_container_wrapper.h" alt="" coords="96,97,270,138"/>
+<area shape="rect" id="node7" href="$ccl__device__selector_8h.html" title="Classes and functions for filtering and selecting OpenCL contexts and associated devices. " alt="" coords="354,278,483,319"/>
+<area shape="rect" id="node8" href="$ccl__context__wrapper_8h.html" title="Definition of a wrapper class and its methods for OpenCL context objects. " alt="" coords="636,369,770,410"/>
+<area shape="rect" id="node20" href="$ccl__queue__wrapper_8h.html" title="Definition of a wrapper class and its methods for OpenCL queue objects. " alt="" coords="846,557,1036,584"/>
+<area shape="rect" id="node28" href="$ccl__platform__wrapper_8h.html" title="Definition of a wrapper class and its methods for OpenCL platform objects. " alt="" coords="631,97,770,138"/>
+<area shape="rect" id="node31" href="$ccl__device__wrapper_8c.html" title="Implementation of a wrapper class and its methods for OpenCL device objects. " alt="" coords="740,187,870,229"/>
+<area shape="rect" id="node32" href="$ccl__device__query_8h.html" title="Functions for querying OpenCL devices. " alt="" coords="996,97,1126,138"/>
+<area shape="rect" id="node3" href="$ccl__abstract__dev__container__wrapper_8c.html" title="Implementation of the methods of the abstract device container wrapper class. " alt="" coords="45,187,219,229"/>
+<area shape="rect" id="node4" href="$ccl__context__wrapper_8c.html" title="Implementation of a wrapper class and its methods for OpenCL context objects. " alt="" coords="190,459,324,501"/>
+<area shape="rect" id="node5" href="$ccl__platform__wrapper_8c.html" title="Implementation of a wrapper class and its methods for OpenCL platform objects. " alt="" coords="346,187,484,229"/>
+<area shape="rect" id="node6" href="$ccl__program__wrapper_8c.html" title="Implementation of a wrapper class and its methods for OpenCL program objects. " alt="" coords="246,913,384,954"/>
+<area shape="rect" id="node27" href="$ccl__device__selector_8c.html" title="Classes and functions for filtering and selecting OpenCL contexts and associated devices. " alt="" coords="354,369,483,410"/>
+<area shape="rect" id="node9" href="$__ccl__memobj__wrapper_8h_source.html" title="cf4ocl2/_ccl_memobj\l_wrapper.h" alt="" coords="1601,641,1746,682"/>
+<area shape="rect" id="node13" href="$ccl__event__wrapper_8h.html" title="Definition of a wrapper class and its methods for OpenCL event objects. " alt="" coords="624,467,811,493"/>
+<area shape="rect" id="node19" href="$ccl__program__wrapper_8h.html" title="Definition of a wrapper class and its methods for OpenCL program objects. " alt="" coords="631,822,770,863"/>
+<area shape="rect" id="node25" href="$ccl__sampler__wrapper_8h.html" title="Definition of a wrapper class and its methods for OpenCL sampler objects. " alt="" coords="350,459,488,501"/>
+<area shape="rect" id="node10" href="$ccl__buffer__wrapper_8c.html" title="Implementation of a wrapper class and its methods for OpenCL buffer objects. " alt="" coords="1276,822,1402,863"/>
+<area shape="rect" id="node11" href="$ccl__image__wrapper_8c.html" title="Implementation of a wrapper class and its methods for OpenCL image objects. " alt="" coords="1426,829,1616,856"/>
+<area shape="rect" id="node12" href="$ccl__memobj__wrapper_8c.html" title="Implementation of a wrapper class and its methods for OpenCL memory objects. " alt="" coords="1551,731,1690,773"/>
+<area shape="rect" id="node14" href="$ccl__memobj__wrapper_8h.html" title="Definition of a wrapper class and its methods for OpenCL memory objects. " alt="" coords="1362,641,1500,682"/>
+<area shape="rect" id="node17" href="$ccl__kernel__wrapper_8h.html" title="Definition of a wrapper class and its methods for OpenCL kernel objects. " alt="" coords="868,731,994,773"/>
+<area shape="rect" id="node21" href="$ccl__event__wrapper_8c.html" title="Implementation of a wrapper class and its methods for OpenCL event objects. " alt="" coords="665,648,852,675"/>
+<area shape="rect" id="node15" href="$ccl__buffer__wrapper_8h.html" title="Definition of a wrapper class and its methods for OpenCL buffer objects. " alt="" coords="1186,731,1311,773"/>
+<area shape="rect" id="node16" href="$ccl__image__wrapper_8h.html" title="Definition of a wrapper class and its methods for OpenCL image objects. " alt="" coords="1336,739,1526,765"/>
+<area shape="rect" id="node18" href="$ccl__kernel__wrapper_8c.html" title="Implementation of a wrapper class and its methods for OpenCL kernel objects. " alt="" coords="716,913,842,954"/>
+<area shape="rect" id="node22" href="$ccl__profiler_8h.html" title="Definition of classes and methods for profiling OpenCL events. " alt="" coords="980,648,1122,675"/>
+<area shape="rect" id="node24" href="$ccl__queue__wrapper_8c.html" title="Implementation of a wrapper class and its methods for OpenCL queue objects. " alt="" coords="1146,648,1336,675"/>
+<area shape="rect" id="node23" href="$ccl__profiler_8c.html" title="Implementation of classes and methods for profiling OpenCL events. " alt="" coords="1018,739,1160,765"/>
+<area shape="rect" id="node26" href="$ccl__sampler__wrapper_8c.html" title="Implementation of a wrapper class and its methods for OpenCL sampler objects. " alt="" coords="350,550,488,591"/>
+<area shape="rect" id="node29" href="$ccl__platforms_8h.html" title="Definition of a class which represents the list of OpenCL platforms available in the system and respe..." alt="" coords="508,195,666,221"/>
+<area shape="rect" id="node30" href="$ccl__platforms_8c.html" title="Implementation of a class which represents the list of OpenCL platforms available in the system and r..." alt="" coords="508,285,666,312"/>
+<area shape="rect" id="node33" href="$ccl__device__query_8c.html" title="Classes and functions to query OpenCL devices. " alt="" coords="996,187,1126,229"/>
+</map>

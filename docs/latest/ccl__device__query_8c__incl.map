@@ -1,0 +1,9 @@
+<map id="cf4ocl2/ccl_device_query.c" name="cf4ocl2/ccl_device_query.c">
+<area shape="rect" id="node2" href="$ccl__device__query_8h.html" title="Functions for querying OpenCL devices. " alt="" coords="225,96,359,123"/>
+<area shape="rect" id="node16" href="$__ccl__abstract__wrapper_8h_source.html" title="_ccl_abstract_wrapper.h" alt="" coords="63,245,227,272"/>
+<area shape="rect" id="node4" href="$ccl__common_8h.html" title="Common cf4ocl definitions. " alt="" coords="173,395,280,421"/>
+<area shape="rect" id="node9" href="$ccl__oclversions_8h.html" title="Header for normalizing OpenCL versions within cf4ocl. " alt="" coords="491,469,613,496"/>
+<area shape="rect" id="node13" href="$ccl__device__wrapper_8h.html" title="Definition of a wrapper class and its methods for OpenCL device objects. " alt="" coords="357,171,504,197"/>
+<area shape="rect" id="node15" href="$ccl__errors_8h.html" title="Convert OpenCL error codes to readable strings (function header). " alt="" coords="355,320,445,347"/>
+<area shape="rect" id="node14" href="$ccl__abstract__wrapper_8h.html" title="Definition of an abstract wrapper class and its methods for OpenCL objects. " alt="" coords="404,245,561,272"/>
+</map>
